@@ -1,6 +1,6 @@
 # YC still-operating rate: KPI, root cause and action
 
-**Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/nadire.waili/viz/YCStill-OperatingRateKPIRootCauseAction/Dashboard1)
+**Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/nadire.waili/viz/YCStill-OperatingRateKPIRootCauseAction/Dashboard1_1)
 
 ![Dashboard](images/dashboard.png)
 
