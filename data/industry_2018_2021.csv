@@ -1,0 +1,9 @@
+industry,companies,still_operating,inactive,inactive_rate,still_operating_rate
+Consumer,252,151,101,0.4008,0.5992
+Education,57,46,11,0.193,0.807
+Industrials,110,90,20,0.1818,0.8182
+Healthcare,287,243,44,0.1533,0.8467
+B2B,797,630,167,0.2095,0.7905
+Fintech,242,202,40,0.1653,0.8347
+Government,13,12,1,0.0769,0.9231
+Real Estate and Construction,50,34,16,0.32,0.68
